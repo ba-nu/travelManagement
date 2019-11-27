@@ -6,6 +6,7 @@ public class Travel {
 
 
     public static void main(String[] args) {
+   System.out.println("test branch homework 6");
        
        Travell obj =new Travell();
         obj.setFullName("Dyana");
